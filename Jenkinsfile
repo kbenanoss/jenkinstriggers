@@ -3,7 +3,7 @@ pipeline{
     stages{
         stage("Build"){
             steps{
-                sh 'echo "Build Completed by Mawuko."'
+                sh 'echo "Build Completed by Mr Mawuko Koumadi."'
             }
             
         }
